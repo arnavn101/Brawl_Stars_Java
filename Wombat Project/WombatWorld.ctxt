@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WombatWorld
+comment0.text=\r\n\ A\ world\ where\ wombats\ live.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=WombatWorld()
+comment1.text=\r\n\ Create\ a\ new\ world\ with\ 8x8\ cells\ and\r\n\ with\ a\ cell\ size\ of\ 60x60\ pixels\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=\r\n\ Populate\ the\ world\ with\ a\ fixed\ scenario\ of\ wombats\ and\ leaves.\r\n
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

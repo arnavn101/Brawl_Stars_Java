@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Brawler
+comment0.text=\r\n\ Wombat.\ A\ Wombat\ moves\ forward\ until\ it\ can't\ do\ so\ anymore,\ at\r\n\ which\ point\ it\ turns\ left.\ If\ a\ wombat\ finds\ a\ leaf,\ it\ eats\ it.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=Brawler()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Do\ whatever\ the\ wombat\ likes\ to\ to\ just\ now.\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment4.params=
+comment4.target=void\ eatLeaf()
+comment4.text=\r\n\ Eat\ a\ leaf.\r\n
+comment5.params=
+comment5.target=int\ returnGem()
+comment6.params=
+comment6.target=boolean\ takeGem()
+numComments=7

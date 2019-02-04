@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FireWombat
+comment1.params=
+comment1.target=FireWombat()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ FireWombat\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ shootFire()
+comment4.params=
+comment4.target=void\ explosion()
+comment4.text=\r\n\ An\ explosion\ object\ is\ set\ to\ all\ adjacent\ squares\ killing\ all\ snakes\ in\ the\ immediate\ area.\r\n
+numComments=5
